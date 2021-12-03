@@ -26,4 +26,4 @@ app.include_router(vote.router)
 # Index page
 @app.get('/')
 def root():
-    return {'message': 'Hello Turals Futuree!!!'}
+    return {'message': 'Hello Turals Great Futuree!!!'}
